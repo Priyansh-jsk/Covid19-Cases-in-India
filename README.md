@@ -1,2 +1,2 @@
 # Covid19-Cases-in-India
-This project is all about how many covid cases ,Death, and recover cases in all state. I use Python Web scraping.
+This project is all about the number of COVID cases ,deaths, and recovered cases in all states. I used Python Web scraping.
